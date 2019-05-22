@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Resources
 
-You can use the [editor on GitHub](https://github.com/xray/wa-preso/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Survey Link
+ - [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSe14qYCGWxoSCibdRyPSkj8U_W-GECrb7sCYc9cguO0APxnUQ/viewform?usp=sf_link)
+ 
+## Python Project Example
+- [Click Here](https://github.com/xray/PythonProjectStructure)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tools
+- [Git (Windows Users)](https://git-scm.com/downloads)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [pytest](https://docs.pytest.org/en/latest/)
 
-### Markdown
+## Bootcamps
+- [Coding Dojo](https://www.codingdojo.com/chicago)
+- [Fullstack Academy](https://www.fullstackacademy.com/chicago-coding-bootcamp)
+- [Grace Hopper](https://www.gracehopper.com/grace-hopper-chicago)
+- [Flatiron School](https://flatironschool.com/campuses/chicago/)
+- [General Assembly](https://generalassemb.ly/locations/chicago)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 8th Light Summer Internship Program
+- Link Coming Soon
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xray/wa-preso/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Contact Me
+- [GitHub](https://github.com/xray)
+- [LinkedIn](https://linkedin.com/in/jacob-r-lamb)
+- Discord: Jake Lamb#1736
+- [Email: j@kelamb.com](mailto:j@kelamb.com)
